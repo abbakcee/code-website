@@ -1,0 +1,6 @@
+{
+  "name": "Strata Cloud — Developer Platform & AI Infrastructure",
+  "description": "High-performance serverless cloud infrastructure, low-latency AI inference, global edge network, and developer tools for engineering teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
